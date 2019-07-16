@@ -1,8 +1,10 @@
 
 Automation Step by Step - Raghav Pal
 
-Selenium Beginner 1 - Introduction - What is Selenium
-                  2 - History of Selenium
+Selenium Beginner 
+
+1 - Introduction - What is Selenium
+2 - History of Selenium
                   3 - Why To Learn Selenium
                   4 - How To Learn Selenium
                   5 - How to write first Selenium script (java)
